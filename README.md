@@ -4,7 +4,7 @@ Built with:
 * NuxtJS
 * Buefy
 * Prismic
-* Buefy
+* Netlify
 
 Nothing special, just working on a template for a tile company.
 Hoping to make this template more rhobust so it can work for more
